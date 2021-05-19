@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Abdullah (@waptd1)
+- 👀 I’m interested in solving geotechnical problems using analytical and numerical methods.
